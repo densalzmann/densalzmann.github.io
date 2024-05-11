@@ -1,35 +1,35 @@
 [
     {
-        "name": "Soduko",
+        "name": "Hackathon Challenge 2022 of the ARENA2036",
         "stack": {
-            "name": "Angular",
-            "iconClasses": "fab fa-angular"
+            "name": "Truffle / InfluxDB / AWS Cloud / Android / Blockchain",
+            "iconClasses": "fab fa-ethereum"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "Our application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.  The Android Scanner App facilitates data scanning and processing, with  customizable server URLs and default coordinates. The Blockchain API Server, developed using Python and Truffle, serves as a central hub for secure data transactions between the app and blockchain network. The Dashboard, powered by InfluxDB on AWS Cloud, provides real-time insights and analytics, adaptable for diverse use cases.",
+        "sourceUrl": "https://github.com/mario-ruoff/hackathon-2022",
+        "previewUrl": "https://github.com/mario-ruoff/hackathon-2022",
         "featured": true
     },
     {
         "name": "E-commerce Store",
         "stack": {
-            "name": "React",
-            "iconClasses": "fab fa-react"
+            "name": "Arduino / Raspberry Pi / Node.js / React",
+            "iconClasses": "fab fa-raspberry-pi"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "J.A.R.V.I.L. is a project of the \"Smart Cities & IoT\" course at the University of Stuttgart. It's main goal is to simplify and automate various tasks in a modern library to make daily work easier for students.s",
+        "sourceUrl": "https://github.com/mario-ruoff/jarvil",
+        "previewUrl": "https://github.com/mario-ruoff/jarvil",
         "featured": true
     },
     {
-        "name": "Algorithm Visualization App",
+        "name": "Archive CLI App",
         "stack": {
-            "name": "Angular",
-            "iconClasses": "fab fa-angular"
+            "name": "Git / Bash",
+            "iconClasses": "fab fa-git"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "Create a unified data structure for any digital storage place.",
+        "sourceUrl": "https://github.com/densalzmann/archive",
+        "previewUrl": "https://github.com/densalzmann/archive",
         "featured": true
     },
     {

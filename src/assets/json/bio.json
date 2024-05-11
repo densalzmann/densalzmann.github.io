@@ -2,12 +2,17 @@
     "firstName": "Dennis",
     "lastName": "Salzmann",
     "intro": [
-        "After getting an engineering degree my interest shifted more into software development of complex interconnected systems. According to the last trends in automation and artificial intelligence I am currently passioned in the subject of ubiquties computing.",
-        "While investigating applications and insights of 5G technology in the industry, I am interested in its positive impact on our society and planet. This ideas bring me up to describe the projects I did as small articles you may find in the corresponding page on this site.",
-        "This website can give you an expression of my previous work as well as of some future ideas."
+        "After completing my engineering degree, my focus transitioned towards the intricate realm of software development for complex and interconnected systems. Now, driven by the latest trends in automation and artificial intelligence, I am deeply immersed in the fascinating field of ubiquitous computing.",
+
+        "As I delve into the applications and implications of 5G technology across various industries, I'm captivated by its potential to positively impact our society and environment. These insights have inspired me to document my projects through concise articles, which you can explore on this site.",
+        
+        "Here, you'll not only find a showcase of my past endeavors but also a glimpse into my future ideas and innovations."
     ],
     "about": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam auctor fringilla. Proin scelerisque lacinia nisl vel ultrices. Ut gravida finibus velit sit amet pulvinar. Nunc nisi arcu, pretium quis ultrices nec, volutpat sit amet nulla. Mauris semper elementum placerat. Aenean velit risus, aliquet quis lectus id, laoreet accumsan erat. Curabitur varius facilisis velit, et rutrum ligula mollis et. Sed imperdiet sit amet urna ut eleifend. Suspendisse consectetur velit nunc, at fermentum eros volutpat nec. Vivamus scelerisque nec turpis volutpat sagittis. Aenean eu sem et diam consequat euismod.",
-        "Mauris dolor tellus, sagittis vel pellentesque sit amet, viverra in enim. Maecenas non lectus eget augue convallis iaculis mattis malesuada nisl. Suspendisse malesuada purus et luctus scelerisque. Cras hendrerit, eros malesuada blandit scelerisque, nulla dui gravida arcu, nec maximus nunc felis sit amet mauris. Donec lorem elit, feugiat sit amet condimentum quis, consequat id diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras rutrum sodales condimentum. Aenean ultrices mi vel augue dapibus mattis. Donec ut ornare nisl. Curabitur feugiat pharetra dictum."
+        "Research and Project Management: Conducted research in data fusion and digital twins. Established a real-time locating laboratory and developed services for sensor networks.",
+
+        "R&D in Cutting-edge Technologies: Conceptualized and prototyped systems for AUTOSAR xml file analysis. Explored graph deep learning methods for anomaly detection.",
+        
+        "Internships and Practical Training: Developed web applications using Angular Framework and cloud-based applications with Golang. Implemented container-based signal processing with Node-RED."
     ]
 }
