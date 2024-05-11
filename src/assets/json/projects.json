@@ -1,22 +1,22 @@
 [
     {
-        "name": "Hackathon Challenge 2022 of the ARENA2036",
+        "name": "Blockchain Check-in App",
         "stack": {
-            "name": "Truffle / InfluxDB / AWS Cloud / Android / Blockchain",
+            "name": "Truffle / InfluxDB / Android",
             "iconClasses": "fab fa-ethereum"
         },
-        "description": "Our application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.  The Android Scanner App facilitates data scanning and processing, with  customizable server URLs and default coordinates. The Blockchain API Server, developed using Python and Truffle, serves as a central hub for secure data transactions between the app and blockchain network. The Dashboard, powered by InfluxDB on AWS Cloud, provides real-time insights and analytics, adaptable for diverse use cases.",
+        "description": "This application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.",
         "sourceUrl": "https://github.com/mario-ruoff/hackathon-2022",
         "previewUrl": "https://github.com/mario-ruoff/hackathon-2022",
         "featured": true
     },
     {
-        "name": "E-commerce Store",
+        "name": "J.A.R.V.I.L.",
         "stack": {
-            "name": "Arduino / Raspberry Pi / Node.js",
+            "name": "Arduino / Raspberry Pi / PDDL",
             "iconClasses": "fab fa-raspberry-pi"
         },
-        "description": "J.A.R.V.I.L. is a project of the \"Smart Cities & IoT\" course at the University of Stuttgart. It's main goal is to simplify and automate various tasks in a modern library to make daily work easier for students.s",
+        "description": "Automation solution for a student library. The system is based on a Raspberry Pi and an Arduino.",
         "sourceUrl": "https://github.com/mario-ruoff/jarvil",
         "previewUrl": "https://github.com/mario-ruoff/jarvil",
         "featured": true

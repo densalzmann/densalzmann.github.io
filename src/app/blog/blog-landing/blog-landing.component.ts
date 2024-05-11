@@ -9,7 +9,7 @@ import { map } from 'rxjs/operators';
 })
 export class BlogLandingComponent {
   links$ = this.scully.available$.pipe(
-    map(routes => routes.filter((route: ScullyRoute) => route.route.startsWith('/blog/')))
+    // map(routes => routes.filter((route: ScullyRoute) => route.route.startsWith('/blog/')))
   );
 
   respOptions = [
