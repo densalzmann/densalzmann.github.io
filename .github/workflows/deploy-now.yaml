@@ -39,7 +39,6 @@ jobs:
         run: |
           npm ci
           npm run build
-          npx scully
 
       - name: Deploy to IONOS
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}

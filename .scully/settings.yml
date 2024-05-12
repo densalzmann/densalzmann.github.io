@@ -1,2 +1,11 @@
 identifier: l56d4co7i72er9dd
 allowErrorCollect: false
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: portfolio
+homeFolder: /home/dennissalzmann/archive/work/repos/github/portfolio
+distFolder: dist/portfolio
+outDir: /home/dennissalzmann/archive/work/repos/github/portfolio/dist/static
+handle404: ""
