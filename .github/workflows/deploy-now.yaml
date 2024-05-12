@@ -10,6 +10,13 @@ on:
 jobs:
   deploy-now:
     runs-on: ubuntu-latest
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+      pages: 'write'
+      actions: 'write'
+      checks: 'write'
+      deployments: 'write'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
