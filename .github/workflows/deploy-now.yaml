@@ -20,22 +20,22 @@ jobs:
       #     service-host: api-eu.ionos.space
 
       - name: checkout
-        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
-        uses: actions/checkout@v4
+        # if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: actions/checkout@v2
         with:
           submodules: 'recursive'
 
       - name: Setup Node
-        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        # if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
         uses: actions/setup-node@v1
         with:
           node-version: v18.13.0
 
       - name: Build Node assets
-        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
-        env:
-          CI: true
-          SITE_URL: ${{ steps.project.outputs.site-url }}
+        # if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        # env:
+        #   CI: true
+          # SITE_URL: ${{ steps.project.outputs.site-url }}
         run: |
           npm ci
           npm run build
