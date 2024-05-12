@@ -27,7 +27,7 @@
     "@scullyio/init": "^3.2.0-beta.0",
     "@scullyio/ng-lib": "^3.1.0-beta.0",
     "@scullyio/scully": "^3.1.0-beta.0",
-    "@scullyio/scully-plugin-puppeteer": "^2.1.41",
+    "@scullyio/scully-plugin-puppeteer": "^3.1.0-beta.0",
     "bootstrap": "^4.5.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
