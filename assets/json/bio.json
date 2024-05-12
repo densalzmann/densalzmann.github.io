@@ -1,0 +1,16 @@
+{
+    "firstName": "Dennis",
+    "lastName": "Salzmann",
+    "intro": [
+        "After completing my engineering degree, my focus transitioned towards the intricate realm of software development for complex and interconnected systems. Now, driven by the latest trends in automation and artificial intelligence, I am deeply immersed in the fascinating field of ubiquitous computing.",
+
+        "As I delve into the applications and implications of 5G technology across various industries, I'm captivated by its potential to positively impact our society and environment. These insights have inspired me to document my projects through concise articles, which you can explore on this site.",
+        
+        "Here, you'll not only find a showcase of my past endeavors but also a glimpse into my future ideas and innovations."
+    ],
+    "about": [
+        "Research and Project Management: Conducted research in data fusion and digital twins. Established a real-time locating laboratory and developed services for sensor networks.",
+        "R&D in Cutting-edge Technologies: Conceptualized and prototyped systems for AUTOSAR xml file analysis. Explored graph deep learning methods for anomaly detection.",
+        "Internships and Practical Training: Developed web applications using Angular Framework and cloud-based applications with Golang. Implemented container-based signal processing with Node-RED."
+    ]
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Blockchain Check-in App",
+        "stack": {
+            "name": "Truffle / InfluxDB / Android",
+            "iconClasses": "fab fa-ethereum"
+        },
+        "description": "This application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.",
+        "sourceUrl": "https://github.com/mario-ruoff/hackathon-2022",
+        "previewUrl": "https://github.com/mario-ruoff/hackathon-2022",
+        "featured": true
+    },
+    {
+        "name": "J.A.R.V.I.L.",
+        "stack": {
+            "name": "Arduino / Raspberry Pi / PDDL",
+            "iconClasses": "fab fa-raspberry-pi"
+        },
+        "description": "Automation solution for a student library. The system is based on a Raspberry Pi and an Arduino.",
+        "sourceUrl": "https://github.com/mario-ruoff/jarvil",
+        "previewUrl": "https://github.com/mario-ruoff/jarvil",
+        "featured": true
+    },
+    {
+        "name": "Archive CLI App",
+        "stack": {
+            "name": "Git / Bash",
+            "iconClasses": "fab fa-git"
+        },
+        "description": "Create a unified data structure for any digital storage place.",
+        "sourceUrl": "https://github.com/densalzmann/archive",
+        "previewUrl": "https://github.com/densalzmann/archive",
+        "featured": true
+    },
+    {
+        "name": "Test App for a research assistant",
+        "stack": {
+            "name": "Python / Docker",
+            "iconClasses": "fab fa-location-dot"
+        },
+        "description": "A simple data generator mocking a GPGGA data source. The datasource is then proccessed to an kafka-server.",
+        "sourceUrl": "https://github.com/densalzmann/hiwi-test",
+        "previewUrl": "https://github.com/densalzmann/hiwi-test",
+        "featured": false
+    }
+]
