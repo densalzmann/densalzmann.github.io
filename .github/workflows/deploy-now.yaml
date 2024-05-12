@@ -53,8 +53,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        env:  
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # env:  
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Deploy to Github-pages
       #   # if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
