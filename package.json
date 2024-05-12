@@ -25,7 +25,7 @@
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@ng-bootstrap/ng-bootstrap": "^16.0.0",
     "@scullyio/init": "^3.2.0-beta.0",
-    "@scullyio/ng-lib": "^2.1.41",
+    "@scullyio/ng-lib": "^3.1.0-beta.0",
     "@scullyio/scully": "^3.1.0-beta.0",
     "@scullyio/scully-plugin-puppeteer": "^2.1.41",
     "bootstrap": "^4.5.0",
