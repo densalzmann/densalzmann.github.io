@@ -29,7 +29,7 @@ jobs:
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
         uses: actions/setup-node@v1
         with:
-          node-version: v16.16.0
+          node-version: v18.13.0
 
       - name: Build Node assets
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
@@ -39,7 +39,6 @@ jobs:
         run: |
           npm ci
           npm run build
-          npx scully
 
       - name: Deploy to IONOS
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
@@ -49,4 +48,4 @@ jobs:
           branch-id: ${{ steps.project.outputs.branch-id }}
           service-host: api-eu.ionos.space
           api-key: ${{ secrets.IONOS_API_KEY }}
-          dist-folder: dist/static
+          dist-folder: dist

@@ -1,22 +1,22 @@
 [
     {
-        "name": "Hackathon Challenge 2022 of the ARENA2036",
+        "name": "Blockchain Check-in App",
         "stack": {
-            "name": "Truffle / InfluxDB / AWS Cloud / Android / Blockchain",
+            "name": "Truffle / InfluxDB / Android",
             "iconClasses": "fab fa-ethereum"
         },
-        "description": "Our application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.  The Android Scanner App facilitates data scanning and processing, with  customizable server URLs and default coordinates. The Blockchain API Server, developed using Python and Truffle, serves as a central hub for secure data transactions between the app and blockchain network. The Dashboard, powered by InfluxDB on AWS Cloud, provides real-time insights and analytics, adaptable for diverse use cases.",
+        "description": "This application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.",
         "sourceUrl": "https://github.com/mario-ruoff/hackathon-2022",
         "previewUrl": "https://github.com/mario-ruoff/hackathon-2022",
         "featured": true
     },
     {
-        "name": "E-commerce Store",
+        "name": "J.A.R.V.I.L.",
         "stack": {
-            "name": "Arduino / Raspberry Pi / Node.js / React",
+            "name": "Arduino / Raspberry Pi / PDDL",
             "iconClasses": "fab fa-raspberry-pi"
         },
-        "description": "J.A.R.V.I.L. is a project of the \"Smart Cities & IoT\" course at the University of Stuttgart. It's main goal is to simplify and automate various tasks in a modern library to make daily work easier for students.s",
+        "description": "Automation solution for a student library. The system is based on a Raspberry Pi and an Arduino.",
         "sourceUrl": "https://github.com/mario-ruoff/jarvil",
         "previewUrl": "https://github.com/mario-ruoff/jarvil",
         "featured": true
@@ -33,14 +33,14 @@
         "featured": true
     },
     {
-        "name": "Time Tracking CLI App",
+        "name": "Test App for a research assistant",
         "stack": {
-            "name": "Node.js",
-            "iconClasses": "fab fa-node-js"
+            "name": "Python / Docker",
+            "iconClasses": "fab fa-location-dot"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "A simple data generator mocking a GPGGA data source. The datasource is then proccessed to an kafka-server.",
+        "sourceUrl": "https://github.com/densalzmann/hiwi-test",
+        "previewUrl": "https://github.com/densalzmann/hiwi-test",
         "featured": false
     }
 ]
