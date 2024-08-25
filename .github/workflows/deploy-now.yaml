@@ -17,17 +17,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
     steps:
       # - name: Fetch project data
       #   uses: ionos-deploy-now/retrieve-project-info-action@v1
