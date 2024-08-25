@@ -49,7 +49,7 @@
             "name": "Python / Docker",
             "iconClasses": "fas fa-map-marker"
         },
-        "description": "A simple data generator mocking a GPGGA data source. The datasource is then proccessed to an kafka-server.",
+        "description": "A simple data generator mocking a GPGGA data source and publishing it to a kafka-broker.",
         "sourceUrl": "https://github.com/densalzmann/hiwi-test",
         "previewUrl": "https://github.com/densalzmann/hiwi-test",
         "featured": false
