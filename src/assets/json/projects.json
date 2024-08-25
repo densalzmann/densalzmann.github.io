@@ -1,5 +1,16 @@
 [
     {
+        "name": "Unified Package \n Inspector (UPI)",
+        "stack": {
+            "name": "Linux / C++",
+            "iconClasses": "fab fa-brands fa-linux"
+        },
+        "description": "Command-line tool to scan and analyze installed packages across multiple package managers.",
+        "sourceUrl": "https://github.com/densalzmann/universal-package-inspector",
+        "previewUrl": "https://burly-gray-9a3.notion.site/The-Modern-Developer-s-Dilemma-Navigating-the-Maze-of-Package-Management-7f0bd6a10c18432ca1bf8fcd2879b21c",
+        "featured": true
+    },
+    {
         "name": "Blockchain Check-in App",
         "stack": {
             "name": "Truffle / InfluxDB / Android",
@@ -8,7 +19,7 @@
         "description": "This application offers an integrated solution comprising an Android Scanner App, Blockchain API Server, and Dashboard.",
         "sourceUrl": "https://github.com/mario-ruoff/hackathon-2022",
         "previewUrl": "https://github.com/mario-ruoff/hackathon-2022",
-        "featured": true
+        "featured": false
     },
     {
         "name": "J.A.R.V.I.L.",
@@ -36,7 +47,7 @@
         "name": "Test App for a research assistant",
         "stack": {
             "name": "Python / Docker",
-            "iconClasses": "fab fa-location-dot"
+            "iconClasses": "fas fa-map-marker"
         },
         "description": "A simple data generator mocking a GPGGA data source. The datasource is then proccessed to an kafka-server.",
         "sourceUrl": "https://github.com/densalzmann/hiwi-test",
